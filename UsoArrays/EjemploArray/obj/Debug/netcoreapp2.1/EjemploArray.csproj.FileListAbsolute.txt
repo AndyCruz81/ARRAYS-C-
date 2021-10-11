@@ -1,0 +1,10 @@
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\bin\Debug\netcoreapp2.1\EjemploArray.deps.json
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\bin\Debug\netcoreapp2.1\EjemploArray.runtimeconfig.json
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\bin\Debug\netcoreapp2.1\EjemploArray.runtimeconfig.dev.json
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\bin\Debug\netcoreapp2.1\EjemploArray.dll
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\bin\Debug\netcoreapp2.1\EjemploArray.pdb
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\obj\Debug\netcoreapp2.1\EjemploArray.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\obj\Debug\netcoreapp2.1\EjemploArray.AssemblyInfoInputs.cache
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\obj\Debug\netcoreapp2.1\EjemploArray.AssemblyInfo.cs
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\obj\Debug\netcoreapp2.1\EjemploArray.dll
+C:\Users\Sistemas17\source\repos\UsoArrays\EjemploArray\obj\Debug\netcoreapp2.1\EjemploArray.pdb
